@@ -52,7 +52,7 @@ body {
   font-family: "Scada", sans-serif;
   font-weight: normal;
   line-height: 1.2;
-  letter-spacing: -0.08em;
+  letter-spacing: -0.05em;
   /* text-transform: uppercase; */
   word-wrap: break-word; }
 
@@ -127,7 +127,8 @@ body {
 
 .reveal q,
 .reveal blockquote {
-  quotes: none; }
+  quotes: none;
+  text-align: left;}
 
 .reveal blockquote {
   display: block;
